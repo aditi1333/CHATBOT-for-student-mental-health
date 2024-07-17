@@ -1,0 +1,16 @@
+{
+  "tags": [
+    {
+      "tag": "greeting ",
+      "responses": ["Hello!", "Hi there!", "Hey!"]
+    },
+    {
+      "tag": "farewell",
+      "responses": ["Goodbye!", "See you later!", "Bye!"]
+    },
+    {
+      "tag": "default",
+      "responses": ["I'm not sure how to respond to that.", "Interesting.", "Tell me more."]
+    }
+  ]
+}
